@@ -1,4 +1,4 @@
-package java;
+package com.jim.blocksanditems;
 
 public class BlocksAndItemsMain {
 
