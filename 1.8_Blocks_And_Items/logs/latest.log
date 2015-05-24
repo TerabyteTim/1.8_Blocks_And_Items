@@ -1,0 +1,36 @@
+[17:30:49] [main/INFO]: Setting user: Player41
+[17:30:50] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:30:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[17:30:54] [Sound Library Loader/INFO]: Sound engine started
+[17:30:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:30:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:30:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[17:30:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:30:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:30:56] [Sound Library Loader/INFO]: Sound engine started
+[17:30:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:30:58] [Server thread/INFO]: Generating keypair
+[17:30:59] [Server thread/INFO]: Preparing start region for level 0
+[17:31:00] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:31:00] [Server thread/INFO]: Player41[local:E:aff7d516] logged in with entity id 402 at (-226.87969550671463, 77.0, 233.27424988274637)
+[17:31:00] [Server thread/INFO]: Player41 joined the game
+[17:31:08] [Client thread/INFO]: [CHAT] That player cannot be found
+[17:31:14] [Client thread/INFO]: [CHAT] That player cannot be found
+[17:31:16] [Client thread/INFO]: [CHAT] /give <player> <item> [amount] [data] [dataTag]
+[17:31:21] [Client thread/INFO]: [CHAT] That player cannot be found
+[17:31:31] [Client thread/INFO]: [CHAT] Warning: Using numeric IDs will not be supported in the future. Please use names, such as 'minecraft:flowing_lava'
+[17:31:31] [Client thread/INFO]: [CHAT] 'rawMutton' is not a valid number
+[17:31:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 216 ms
+[17:31:50] [Client thread/INFO]: [CHAT] Warning: Using numeric IDs will not be supported in the future. Please use names, such as 'minecraft:flowing_lava'
+[17:31:50] [Client thread/INFO]: [CHAT] 'mutton_raw' is not a valid number
+[17:31:57] [Server thread/INFO]: Saving and pausing game...
+[17:31:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:31:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:31:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:31:58] [Server thread/INFO]: Stopping server
+[17:31:58] [Server thread/INFO]: Saving players
+[17:31:58] [Server thread/INFO]: Saving worlds
+[17:31:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:31:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:31:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:32:00] [Client thread/INFO]: Stopping!
