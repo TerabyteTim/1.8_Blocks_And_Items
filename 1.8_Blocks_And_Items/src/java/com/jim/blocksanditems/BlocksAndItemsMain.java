@@ -1,5 +1,6 @@
 package com.jim.blocksanditems;
 
+import net.minecraftforge.common.MinecraftForge;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
@@ -17,10 +18,16 @@ public class BlocksAndItemsMain
     public static BlocksAndItemsMain instance;
  
     @Mod.EventHandler
-    public void preInit(FMLPreInitializationEvent event) {}
+    public void preInit(FMLPreInitializationEvent event) 
+    {
+    	ModItems.init();	
+    }
  
     @Mod.EventHandler
-    public void init(FMLInitializationEvent event) {}
+    public void init(FMLInitializationEvent event) 
+    {
+    	MinecraftForge.EVENT_BUS.register(new MobDropsHandler());    	
+    }
  
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event) {}
