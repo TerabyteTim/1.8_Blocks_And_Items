@@ -25,7 +25,7 @@ public class ModBlocks {
     public static void init() {
         barrier = new BlockBarrier();
         coarse_dirt = new BlockCoarseDirt();
-        iron_trapdoor = new BlockIronTrapdoor();
+        iron_trapdoor = new BlockIronTrapDoor();
         prismarine_rough = new BlockPrismarine();
         prismarine_bricks = new BlockPrismarineBricks();
         prismarine_dark = new BlockDarkPrismarine();

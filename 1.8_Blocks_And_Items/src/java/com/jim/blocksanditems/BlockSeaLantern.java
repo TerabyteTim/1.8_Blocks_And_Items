@@ -14,5 +14,7 @@ public class BlockSeaLantern extends Block {
         this.setBlockName(name);
         this.setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
         this.setCreativeTab(CreativeTabs.tabBlock);
+        this.setLightLevel(1.0F);
     }
+
 }
