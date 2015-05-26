@@ -6,6 +6,7 @@ public class ModBlocks {
     public static Block barrier;
     public static Block coarse_dirt;
     public static Block iron_trapdoor;
+    public static Block prismarine_rough;
     public static Block prismarine_bricks;
     public static Block prismarine_dark;
     public static Block red_sandstone_normal;
@@ -25,7 +26,8 @@ public class ModBlocks {
         barrier = new BlockBarrier();
         coarse_dirt = new BlockCoarseDirt();
         iron_trapdoor = new BlockIronTrapdoor();
-        prismarine_bricks = new BlockPrismarine();
+        prismarine_rough = new BlockPrismarine();
+        prismarine_bricks = new BlockPrismarineBricks();
         prismarine_dark = new BlockDarkPrismarine();
         red_sandstone_normal = new BlockRedSandstone();
         sea_lantern = new BlockSeaLantern();

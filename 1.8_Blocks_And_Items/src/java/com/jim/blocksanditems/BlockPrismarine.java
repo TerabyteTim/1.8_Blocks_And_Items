@@ -7,7 +7,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
 public class BlockPrismarine extends Block
 {
-    private static final String name = "prismarine_bricks";
+    private static final String name = "prismarine_rough";
  
     public BlockPrismarine()
     {

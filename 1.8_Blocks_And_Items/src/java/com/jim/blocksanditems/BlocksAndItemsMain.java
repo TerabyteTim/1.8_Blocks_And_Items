@@ -21,8 +21,8 @@ public class BlocksAndItemsMain
     public void preInit(FMLPreInitializationEvent event) 
     {
     	ModItems.init();	
-    	ModRecipes.init();
     	ModBlocks.init();
+    	ModRecipes.init();
     }
  
     @Mod.EventHandler
