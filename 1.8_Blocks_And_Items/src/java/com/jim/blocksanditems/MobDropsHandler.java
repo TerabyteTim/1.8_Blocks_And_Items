@@ -2,6 +2,9 @@ package com.jim.blocksanditems;
 
 import java.util.Random;
 
+import net.java.games.input.Keyboard;
+import net.minecraft.block.Block;
+import net.minecraft.client.Minecraft;
 import net.minecraft.entity.item.EntityItem;
 import net.minecraft.entity.passive.EntitySheep;
 import net.minecraft.entity.player.EntityPlayer;
@@ -10,10 +13,15 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.ChatComponentText;
 import net.minecraft.util.IChatComponent;
+import net.minecraft.util.MovingObjectPosition;
+import net.minecraft.world.World;
 import net.minecraftforge.client.MinecraftForgeClient;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.entity.living.LivingDropsEvent;
+import net.minecraftforge.event.entity.player.PlayerEvent;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
+import cpw.mods.fml.relauncher.Side;
+import cpw.mods.fml.relauncher.SideOnly;
 
 public class MobDropsHandler {
 	@SubscribeEvent
@@ -35,12 +43,19 @@ public class MobDropsHandler {
 			EntityItem drop = new EntityItem(evt.entity.worldObj, evt.entity.posX, evt.entity.posY, evt.entity.posZ, stack);
 			
 			evt.drops.add(drop);
-			
-			if (evt.source.getEntity() instanceof EntityPlayer) {
-				EntityPlayer player = (EntityPlayer) evt.source.getEntity();
+		}
+	}
+	
+	@SubscribeEvent
+	public void onRightClick(PlayerEvent evt) {
+		if (org.lwjgl.input.Keyboard.isKeyDown(0x10)) {
+				MovingObjectPosition pos = evt.entityPlayer.rayTrace(200, 1.0f) ;
 
-				player.getFoodStats().setFoodLevel(0);
-			}
+				if (pos != null) {
+					World w = (World)Minecraft.getMinecraft().theWorld;
+					Block b = w.getBlock(pos.blockX, pos.blockY, pos.blockZ);
+					Minecraft.getMinecraft().thePlayer.sendChatMessage(String.valueOf(Block.getIdFromBlock(b)));
+				}
 		}
 	}
 }

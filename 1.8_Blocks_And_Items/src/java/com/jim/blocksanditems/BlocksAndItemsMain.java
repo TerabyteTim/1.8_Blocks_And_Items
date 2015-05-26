@@ -1,10 +1,13 @@
 package com.jim.blocksanditems;
 
+import net.minecraft.block.Block;
 import net.minecraftforge.common.MinecraftForge;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.registry.ExistingSubstitutionException;
+import cpw.mods.fml.common.registry.GameRegistry;
 
 @Mod(modid = BlocksAndItemsMain.MODID, name = BlocksAndItemsMain.NAME, version = BlocksAndItemsMain.VERSION)
  
@@ -19,7 +22,7 @@ public class BlocksAndItemsMain
  
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) 
-    {
+    {    	
     	ModItems.init();	
     	ModBlocks.init();
     	ModRecipes.init();
@@ -28,7 +31,7 @@ public class BlocksAndItemsMain
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) 
     {
-    	MinecraftForge.EVENT_BUS.register(new MobDropsHandler());    	
+    	MinecraftForge.EVENT_BUS.register(new MobDropsHandler());  
     }
  
     @Mod.EventHandler
