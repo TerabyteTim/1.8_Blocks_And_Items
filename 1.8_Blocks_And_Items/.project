@@ -3,6 +3,7 @@
 	<name>1.8_Blocks_And_Items</name>
 	<comment></comment>
 	<projects>
+		<project>Forge</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

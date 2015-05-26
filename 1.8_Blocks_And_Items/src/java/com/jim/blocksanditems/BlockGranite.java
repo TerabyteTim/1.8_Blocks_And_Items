@@ -14,5 +14,8 @@ public class BlockGranite extends Block {
         this.setBlockName(name);
         this.setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
         this.setCreativeTab(CreativeTabs.tabBlock);
+        this.setHardness(1.5f);
+        this.setStepSound(soundTypeStone);
+        this.blockResistance = 30;
     }
 }
