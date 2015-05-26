@@ -22,6 +22,7 @@ public class BlocksAndItemsMain
     {
     	ModItems.init();	
     	ModRecipes.init();
+    	ModBlocks.init();
     }
  
     @Mod.EventHandler
