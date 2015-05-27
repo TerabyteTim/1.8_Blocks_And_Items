@@ -37,7 +37,6 @@ public class BlockFence extends net.minecraft.block.BlockFence
         this.opaque = false;
         
         this.field_149827_a = "planks_" + name;
-        System.out.println("TEST: " + this.field_149827_a);
     }
 
     /**
