@@ -1,6 +1,7 @@
 package com.jim.blocksanditems;
 
 import java.util.List;
+import java.util.Random;
 
 import cpw.mods.fml.common.registry.ExistingSubstitutionException;
 import cpw.mods.fml.common.registry.GameRegistry;
@@ -31,6 +32,8 @@ public class BlockPrismarine extends Block
         setBlockName(name);
         setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
         setCreativeTab(CreativeTabs.tabBlock);
+        this.setHardness(1.5f);
+        this.setResistance(30);
     }
     
     /**
@@ -45,6 +48,11 @@ public class BlockPrismarine extends Block
         }
 
         return this.typeIcons[p_149691_2_];
+    }
+    
+    @Override
+    public Item getItemDropped(int meta, Random random, int fortune) {
+        return null;
     }
 
     /**

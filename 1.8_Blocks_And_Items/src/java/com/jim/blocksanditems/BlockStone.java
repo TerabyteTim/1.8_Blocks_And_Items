@@ -22,10 +22,12 @@ public class BlockStone extends net.minecraft.block.BlockStone
     public BlockStone()
     {
         super();
-        //GameRegistry.registerBlock(this, ItemBlockPrismarine.class, name);
         
         setBlockName(name);
         setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
+        this.setHardness(1.5f);
+        this.setStepSound(soundTypeStone);
+        this.blockResistance = 30;
     }
     
     /**

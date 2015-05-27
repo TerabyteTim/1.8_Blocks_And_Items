@@ -6,6 +6,7 @@ import cpw.mods.fml.common.registry.LanguageRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockGlass;
 import net.minecraft.block.BlockObsidian;
+import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.item.ItemMultiTexture;
 import net.minecraft.item.ItemStack;
@@ -13,25 +14,16 @@ import net.minecraft.item.ItemStack;
 public class ModBlocks {
 	
     public static Block barrier;
-    public static Block coarse_dirt;
+    //public static Block coarse_dirt;
     public static Block iron_trapdoor;
     public static Block stone;
     public static Block prismarine;
     public static Block red_sandstone_normal;
     public static Block sea_lantern;
     public static Block slime;
-    public static Block sponge_wet;
     public static Block sponge;
-    public static Block stone_andesite;
-    public static Block stone_diorite;
-    public static Block stone_granite;
-    public static Block stone_andesite_smooth;
-    public static Block stone_diorite_smooth;
-    public static Block stone_granite_smooth;
     public static Block beck_block;
     public static Block Domenick;
-    public static Block clearBlock;
-    public static Block sponge_absorbant;
 
     public static void init() {
         slime = new BlockSlime();
@@ -40,10 +32,8 @@ public class ModBlocks {
         prismarine = new BlockPrismarine();
         sea_lantern = new BlockSeaLantern();
         
-        
         //coarse_dirt = new BlockCoarseDirt();
         red_sandstone_normal = new BlockRedSandstone();
-        clearBlock = new BlockClear();
         /*stone_andesite = new BlockNormalAndesite();
         stone_diorite = new BlockDiorite();
         stone_granite = new BlockGranite();
@@ -62,12 +52,13 @@ public class ModBlocks {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
+    	
     	//Spawn in new sponge
     	try {
-        	sponge = new BlockSponge(5, false);
+        	sponge = new BlockSponge();
 			GameRegistry.addSubstitutionAlias("minecraft:sponge", GameRegistry.Type.BLOCK, sponge);
 			GameRegistry.addSubstitutionAlias("minecraft:sponge", GameRegistry.Type.ITEM, new ItemBlockSponge(sponge));
+			//System.out.println("TEst!! " + test.getSubItems(p_150895_1_, p_150895_2_, p_150895_3_););
 		} catch (ExistingSubstitutionException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

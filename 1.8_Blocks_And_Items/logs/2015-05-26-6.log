@@ -1,0 +1,966 @@
+[22:25:55] [main/INFO]: Setting user: Player7
+[22:28:16] [main/INFO]: Setting user: Player840
+[22:28:35] [main/INFO]: Setting user: Player798
+[22:28:53] [main/INFO]: Setting user: Player462
+[22:29:27] [main/INFO]: Setting user: Player996
+[22:50:07] [main/INFO]: Setting user: Player315
+[22:50:08] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:50:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[22:50:11] [Sound Library Loader/INFO]: Sound engine started
+[22:50:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:50:12] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:50:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[22:50:12] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:50:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:50:13] [Sound Library Loader/INFO]: Sound engine started
+[22:50:13] [Client thread/INFO]: Stopping!
+[22:50:25] [main/INFO]: Setting user: Player245
+[22:50:26] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:50:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[22:50:30] [Sound Library Loader/INFO]: Sound engine started
+[22:50:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:50:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:50:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[22:50:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:50:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:50:37] [Sound Library Loader/INFO]: Sound engine started
+[22:51:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:51:08] [Server thread/INFO]: Generating keypair
+[22:51:08] [Server thread/INFO]: Converting map!
+[22:51:08] [Server thread/INFO]: Scanning folders...
+[22:51:08] [Server thread/INFO]: Total conversion count is 0
+[22:51:08] [Server thread/INFO]: Preparing start region for level 0
+[22:51:09] [Server thread/INFO]: Preparing spawn area: 15%
+[22:51:10] [Server thread/INFO]: Preparing spawn area: 38%
+[22:51:11] [Server thread/INFO]: Preparing spawn area: 63%
+[22:51:12] [Server thread/INFO]: Preparing spawn area: 83%
+[22:51:13] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:51:13] [Server thread/INFO]: Player245[local:E:ccf97817] logged in with entity id 180 at (-177.5, 62.0, 233.5)
+[22:51:13] [Server thread/INFO]: Player245 joined the game
+[22:51:15] [Server thread/INFO]: Saving and pausing game...
+[22:51:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:51:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:51:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:54:13] [Server thread/INFO]: Player245 has just earned the achievement [Taking Inventory]
+[22:54:13] [Client thread/INFO]: [CHAT] Player245 has just earned the achievement [Taking Inventory]
+[22:54:45] [Server thread/INFO]: Saving and pausing game...
+[22:54:45] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:54:45] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:54:45] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:54:46] [Server thread/INFO]: Stopping server
+[22:54:46] [Server thread/INFO]: Saving players
+[22:54:46] [Server thread/INFO]: Saving worlds
+[22:54:46] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:54:46] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:54:46] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:54:47] [Client thread/INFO]: Stopping!
+[23:03:46] [main/INFO]: Setting user: Player929
+[23:03:47] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:03:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:03:51] [Sound Library Loader/INFO]: Sound engine started
+[23:03:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:03:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:03:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:03:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:03:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:03:53] [Sound Library Loader/INFO]: Sound engine started
+[23:05:37] [Client thread/INFO]: Deleting level New World--
+[23:05:37] [Client thread/INFO]: Attempt 1...
+[23:05:39] [Client thread/INFO]: Deleting level New World-
+[23:05:39] [Client thread/INFO]: Attempt 1...
+[23:05:40] [Client thread/INFO]: Deleting level New World
+[23:05:40] [Client thread/INFO]: Attempt 1...
+[23:05:43] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:05:43] [Server thread/INFO]: Generating keypair
+[23:05:43] [Server thread/INFO]: Converting map!
+[23:05:43] [Server thread/INFO]: Scanning folders...
+[23:05:43] [Server thread/INFO]: Total conversion count is 0
+[23:05:44] [Server thread/INFO]: Preparing start region for level 0
+[23:05:45] [Server thread/INFO]: Preparing spawn area: 15%
+[23:05:46] [Server thread/INFO]: Preparing spawn area: 35%
+[23:05:47] [Server thread/INFO]: Preparing spawn area: 59%
+[23:05:48] [Server thread/INFO]: Preparing spawn area: 83%
+[23:05:48] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:05:49] [Server thread/INFO]: Player929[local:E:13187c9f] logged in with entity id 195 at (-108.5, 67.0, 239.5)
+[23:05:49] [Server thread/INFO]: Player929 joined the game
+[23:05:53] [Server thread/INFO]: Player929 has just earned the achievement [Taking Inventory]
+[23:05:53] [Client thread/INFO]: [CHAT] Player929 has just earned the achievement [Taking Inventory]
+[23:06:05] [Server thread/INFO]: <Player929> 2
+[23:06:05] [Server thread/INFO]: <Player929> 2
+[23:06:05] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:05] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:05] [Server thread/INFO]: <Player929> 2
+[23:06:05] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:05] [Server thread/INFO]: <Player929> 2
+[23:06:05] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:06] [Server thread/INFO]: <Player929> 2
+[23:06:06] [Server thread/INFO]: <Player929> 2
+[23:06:06] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:06] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:06] [Server thread/INFO]: <Player929> 2
+[23:06:06] [Server thread/INFO]: <Player929> 2
+[23:06:06] [Server thread/INFO]: <Player929> 2
+[23:06:06] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:06] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:06] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:06] [Server thread/INFO]: <Player929> 2
+[23:06:06] [Client thread/INFO]: [CHAT] <Player929> 2
+[23:06:07] [Server thread/INFO]: <Player929> 3
+[23:06:07] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Server thread/INFO]: <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:08] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:09] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:09] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:09] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:09] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:09] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:09] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:09] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:09] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:09] [Server thread/INFO]: <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:10] [Server thread/INFO]: <Player929> 3
+[23:06:10] [Server thread/INFO]: <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:10] [Server thread/INFO]: <Player929> 3
+[23:06:10] [Server thread/INFO]: <Player929> 3
+[23:06:10] [Server thread/INFO]: <Player929> 3
+[23:06:10] [Server thread/INFO]: <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:10] [Server thread/INFO]: <Player929> 3
+[23:06:10] [Server thread/INFO]: <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:10] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Server thread/INFO]: <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:11] [Client thread/INFO]: [CHAT] <Player929> 3
+[23:06:12] [Server thread/INFO]: Saving and pausing game...
+[23:06:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:06:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:06:12] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:06:30] [Server thread/INFO]: Saving and pausing game...
+[23:06:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:06:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:06:30] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:06:33] [Client thread/INFO]: Stopping!
+[23:06:33] [Server thread/INFO]: Stopping server
+[23:06:33] [Server thread/INFO]: Saving players
+[23:06:33] [Server thread/INFO]: Saving worlds
+[23:06:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:06:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:06:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:06:34] [Client Shutdown Thread/INFO]: Stopping server
+[23:06:34] [Client Shutdown Thread/INFO]: Saving players
+[23:08:22] [main/INFO]: Setting user: Player715
+[23:08:23] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:08:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:08:29] [Sound Library Loader/INFO]: Sound engine started
+[23:08:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:08:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:08:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:08:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:08:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:08:37] [Sound Library Loader/INFO]: Sound engine started
+[23:08:39] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:08:39] [Server thread/INFO]: Generating keypair
+[23:08:40] [Server thread/INFO]: Preparing start region for level 0
+[23:08:41] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:08:41] [Server thread/INFO]: Player715[local:E:1949f1a4] logged in with entity id 348 at (-120.30000001192093, 61.0, 271.48839738425335)
+[23:08:41] [Server thread/INFO]: Player715 joined the game
+[23:08:43] [Server thread/INFO]: <Player715> 3
+[23:08:43] [Server thread/INFO]: <Player715> 3
+[23:08:43] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:43] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:43] [Server thread/INFO]: <Player715> 3
+[23:08:43] [Server thread/INFO]: <Player715> 3
+[23:08:43] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:43] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:43] [Server thread/INFO]: <Player715> 3
+[23:08:43] [Server thread/INFO]: <Player715> 3
+[23:08:43] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:43] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:44] [Server thread/INFO]: <Player715> 3
+[23:08:44] [Server thread/INFO]: <Player715> 3
+[23:08:44] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:44] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:44] [Server thread/INFO]: <Player715> 3
+[23:08:44] [Server thread/INFO]: <Player715> 3
+[23:08:44] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:44] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:44] [Server thread/INFO]: <Player715> 3
+[23:08:44] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:44] [Server thread/INFO]: <Player715> 3
+[23:08:44] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:45] [Server thread/INFO]: <Player715> 3
+[23:08:45] [Server thread/INFO]: <Player715> 3
+[23:08:45] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:45] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:45] [Server thread/INFO]: <Player715> 3
+[23:08:45] [Server thread/INFO]: <Player715> 3
+[23:08:45] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:45] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:45] [Server thread/INFO]: <Player715> 3
+[23:08:45] [Server thread/INFO]: <Player715> 3
+[23:08:45] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:45] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:45] [Server thread/INFO]: <Player715> 3
+[23:08:45] [Server thread/INFO]: <Player715> 3
+[23:08:45] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:45] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Server thread/INFO]: <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:46] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:47] [Server thread/INFO]: <Player715> 3
+[23:08:47] [Server thread/INFO]: <Player715> 3
+[23:08:47] [Server thread/INFO]: <Player715> 3
+[23:08:47] [Server thread/INFO]: <Player715> 3
+[23:08:47] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:47] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:47] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:47] [Client thread/INFO]: [CHAT] <Player715> 3
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Server thread/INFO]: <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:48] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Server thread/INFO]: <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:49] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:08:50] [Server thread/INFO]: Saving and pausing game...
+[23:08:50] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:08:50] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:08:50] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Server thread/INFO]: <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:08] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 0
+[23:09:09] [Server thread/INFO]: <Player715> 9
+[23:09:09] [Server thread/INFO]: <Player715> 9
+[23:09:09] [Server thread/INFO]: <Player715> 9
+[23:09:09] [Server thread/INFO]: <Player715> 9
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:09] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:10] [Server thread/INFO]: Player715 has just earned the achievement [Taking Inventory]
+[23:09:10] [Client thread/INFO]: [CHAT] Player715 has just earned the achievement [Taking Inventory]
+[23:09:12] [Server thread/INFO]: <Player715> 9
+[23:09:12] [Server thread/INFO]: <Player715> 9
+[23:09:12] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:12] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:12] [Server thread/INFO]: <Player715> 9
+[23:09:12] [Server thread/INFO]: <Player715> 9
+[23:09:12] [Server thread/INFO]: <Player715> 9
+[23:09:12] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:12] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:12] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Server thread/INFO]: <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:13] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:14] [Server thread/INFO]: <Player715> 9
+[23:09:14] [Server thread/INFO]: <Player715> 9
+[23:09:14] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:14] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:14] [Server thread/INFO]: <Player715> 9
+[23:09:14] [Server thread/INFO]: <Player715> 9
+[23:09:14] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:14] [Client thread/INFO]: [CHAT] <Player715> 9
+[23:09:14] [Server thread/INFO]: Saving and pausing game...
+[23:09:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:09:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:09:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:09:19] [Server thread/INFO]: Saving and pausing game...
+[23:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:09:19] [Server thread/INFO]: Stopping server
+[23:09:19] [Server thread/INFO]: Saving players
+[23:09:19] [Server thread/INFO]: Saving worlds
+[23:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:09:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:09:21] [Client thread/INFO]: Stopping!
+[23:14:06] [main/INFO]: Setting user: Player450
+[23:14:07] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:14:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:14:11] [Sound Library Loader/INFO]: Sound engine started
+[23:14:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:14:11] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:14:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:14:11] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:14:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:14:12] [Sound Library Loader/INFO]: Sound engine started
+[23:14:14] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:14:14] [Server thread/INFO]: Generating keypair
+[23:14:15] [Server thread/INFO]: Preparing start region for level 0
+[23:14:15] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:14:16] [Server thread/INFO]: Player450[local:E:e15a5500] logged in with entity id 350 at (-122.54387638343022, 61.703330110147256, 275.5925016214762)
+[23:14:16] [Server thread/INFO]: Player450 joined the game
+[23:14:18] [Server thread/INFO]: Player450 has just earned the achievement [Taking Inventory]
+[23:14:18] [Client thread/INFO]: [CHAT] Player450 has just earned the achievement [Taking Inventory]
+[23:14:22] [Server thread/INFO]: Saving and pausing game...
+[23:14:22] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:14:22] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:14:22] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:14:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5452ms behind, skipping 109 tick(s)
+[23:15:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4127ms behind, skipping 82 tick(s)
+[23:15:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2420ms behind, skipping 48 tick(s)
+[23:15:24] [Client thread/INFO]: Stopping!
+[23:15:24] [Server thread/INFO]: Stopping server
+[23:15:24] [Server thread/INFO]: Saving players
+[23:15:24] [Server thread/INFO]: Saving worlds
+[23:15:24] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:15:24] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:15:24] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:15:25] [Client Shutdown Thread/INFO]: Stopping server
+[23:15:25] [Client Shutdown Thread/INFO]: Saving players
+[23:16:35] [main/INFO]: Setting user: Player144
+[23:16:36] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:16:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:16:41] [Sound Library Loader/INFO]: Sound engine started
+[23:16:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:16:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:16:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:16:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:16:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:16:50] [Sound Library Loader/INFO]: Sound engine started
+[23:16:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:16:59] [Server thread/INFO]: Generating keypair
+[23:16:59] [Server thread/INFO]: Preparing start region for level 0
+[23:17:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:17:01] [Server thread/INFO]: Player144[local:E:8c155de0] logged in with entity id 335 at (-116.73134820591166, 66.30631601118341, 271.34105323992105)
+[23:17:01] [Server thread/INFO]: Player144 joined the game
+[23:17:29] [Server thread/INFO]: Saving and pausing game...
+[23:17:29] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:17:29] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:17:29] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:17:32] [Server thread/INFO]: Saving and pausing game...
+[23:17:32] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:17:32] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:17:32] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:17:33] [Server thread/INFO]: Stopping server
+[23:17:33] [Server thread/INFO]: Saving players
+[23:17:33] [Server thread/INFO]: Saving worlds
+[23:17:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:17:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:17:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:17:34] [Client thread/INFO]: Stopping!
+[23:24:00] [main/INFO]: Setting user: Player298
+[23:24:01] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:24:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:24:04] [Sound Library Loader/INFO]: Sound engine started
+[23:24:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:24:05] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:24:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:24:05] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:24:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:24:06] [Sound Library Loader/INFO]: Sound engine started
+[23:24:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:24:08] [Server thread/INFO]: Generating keypair
+[23:24:09] [Server thread/INFO]: Preparing start region for level 0
+[23:24:09] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:24:10] [Server thread/INFO]: Player298[local:E:6b514893] logged in with entity id 335 at (-114.30000001192093, 66.0, 272.972943037831)
+[23:24:10] [Server thread/INFO]: Player298 joined the game
+[23:24:20] [Server thread/INFO]: [Player298: Set the time to 0]
+[23:24:20] [Client thread/INFO]: [CHAT] Set the time to 0
+[23:24:24] [Server thread/INFO]: [Player298: Set the time to 13000]
+[23:24:24] [Client thread/INFO]: [CHAT] Set the time to 13000
+[23:24:31] [Server thread/INFO]: Saving and pausing game...
+[23:24:31] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:24:31] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:24:31] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:24:39] [Client thread/INFO]: Stopping!
+[23:24:39] [Server thread/INFO]: Stopping server
+[23:24:39] [Server thread/INFO]: Saving players
+[23:24:39] [Server thread/INFO]: Saving worlds
+[23:24:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:24:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:24:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:24:43] [main/INFO]: Setting user: Player949
+[23:24:44] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:24:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:24:48] [Sound Library Loader/INFO]: Sound engine started
+[23:24:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:24:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:24:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:24:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:24:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:24:50] [Sound Library Loader/INFO]: Sound engine started
+[23:24:52] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:24:52] [Server thread/INFO]: Generating keypair
+[23:24:52] [Server thread/INFO]: Preparing start region for level 0
+[23:24:53] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:24:53] [Server thread/INFO]: Player949[local:E:0042c8b9] logged in with entity id 337 at (-112.82505095929541, 67.0, 272.30000001192093)
+[23:24:53] [Server thread/INFO]: Player949 joined the game
+[23:25:06] [Server thread/INFO]: Saving and pausing game...
+[23:25:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:25:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:25:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:25:07] [Server thread/INFO]: Player949 has just earned the achievement [Taking Inventory]
+[23:25:07] [Client thread/INFO]: [CHAT] Player949 has just earned the achievement [Taking Inventory]
+[23:25:23] [Server thread/INFO]: Saving and pausing game...
+[23:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:25:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:25:26] [Server thread/INFO]: Saving and pausing game...
+[23:25:26] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:25:26] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:25:26] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:25:39] [Server thread/INFO]: Saving and pausing game...
+[23:25:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:25:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:25:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:25:39] [Server thread/INFO]: Stopping server
+[23:25:39] [Server thread/INFO]: Saving players
+[23:25:39] [Server thread/INFO]: Saving worlds
+[23:25:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:25:40] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:25:40] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:25:41] [Client thread/INFO]: Stopping!
+[23:28:51] [main/INFO]: Setting user: Player658
+[23:28:52] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:28:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:28:56] [Sound Library Loader/INFO]: Sound engine started
+[23:28:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:28:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:28:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:28:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:28:57] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:28:57] [Sound Library Loader/INFO]: Sound engine started
+[23:28:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:28:59] [Server thread/INFO]: Generating keypair
+[23:28:59] [Server thread/INFO]: Preparing start region for level 0
+[23:29:00] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:29:01] [Server thread/INFO]: Player658[local:E:81ca0cf1] logged in with entity id 327 at (-125.90001424144172, 74.36507831819574, 275.4292235106957)
+[23:29:01] [Server thread/INFO]: Player658 joined the game
+[23:29:04] [Server thread/INFO]: [Player658: Set own game mode to Survival Mode]
+[23:29:04] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[23:29:10] [Server thread/INFO]: Player658 has just earned the achievement [Taking Inventory]
+[23:29:10] [Client thread/INFO]: [CHAT] Player658 has just earned the achievement [Taking Inventory]
+[23:29:15] [Server thread/INFO]: Saving and pausing game...
+[23:29:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:29:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:29:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:29:16] [Server thread/INFO]: Stopping server
+[23:29:16] [Server thread/INFO]: Saving players
+[23:29:16] [Server thread/INFO]: Saving worlds
+[23:29:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:29:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:29:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:29:17] [Client thread/INFO]: Stopping!
+[23:36:05] [main/INFO]: Setting user: Player697
+[23:36:06] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:36:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:36:10] [Sound Library Loader/INFO]: Sound engine started
+[23:36:10] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:36:11] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:36:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:36:11] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:36:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:36:12] [Sound Library Loader/INFO]: Sound engine started
+[23:36:14] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:36:14] [Server thread/INFO]: Generating keypair
+[23:36:14] [Server thread/INFO]: Preparing start region for level 0
+[23:36:15] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:36:15] [Server thread/INFO]: Player697[local:E:11e10f8d] logged in with entity id 326 at (-112.54449571292136, 67.0, 275.16558577948393)
+[23:36:15] [Server thread/INFO]: Player697 joined the game
+[23:36:22] [Server thread/INFO]: [Player697: Set the time to 0]
+[23:36:22] [Client thread/INFO]: [CHAT] Set the time to 0
+[23:36:31] [Server thread/INFO]: [Player697: Set own game mode to Creative Mode]
+[23:36:31] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[23:36:37] [Server thread/INFO]: Saving and pausing game...
+[23:36:37] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:36:37] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:36:37] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:36:47] [Server thread/INFO]: Saving and pausing game...
+[23:36:47] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:36:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:36:47] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:36:52] [Server thread/INFO]: Stopping server
+[23:36:52] [Server thread/INFO]: Saving players
+[23:36:52] [Server thread/INFO]: Saving worlds
+[23:36:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:36:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:36:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:36:53] [Client thread/INFO]: Stopping!
+[23:43:10] [main/INFO]: Setting user: Player656
+[23:43:11] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:43:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:43:15] [Sound Library Loader/INFO]: Sound engine started
+[23:43:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:43:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:43:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:43:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:43:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:43:16] [Sound Library Loader/INFO]: Sound engine started
+[23:43:18] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:43:18] [Server thread/INFO]: Generating keypair
+[23:43:18] [Server thread/INFO]: Preparing start region for level 0
+[23:43:19] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:43:19] [Server thread/INFO]: Player656[local:E:cb076865] logged in with entity id 327 at (-124.12158633624689, 64.66619200720602, 273.29811780979793)
+[23:43:19] [Server thread/INFO]: Player656 joined the game
+[23:43:25] [Server thread/INFO]: <Player656> -1
+[23:43:25] [Server thread/INFO]: <Player656> -1
+[23:43:25] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:25] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:25] [Server thread/INFO]: <Player656> -1
+[23:43:25] [Server thread/INFO]: <Player656> -1
+[23:43:25] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:25] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:25] [Server thread/INFO]: <Player656> -1
+[23:43:26] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:26] [Server thread/INFO]: <Player656> -1
+[23:43:26] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:27] [Server thread/INFO]: <Player656> -1
+[23:43:27] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:27] [Server thread/INFO]: <Player656> -1
+[23:43:27] [Server thread/INFO]: <Player656> -1
+[23:43:27] [Server thread/INFO]: <Player656> -1
+[23:43:27] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:27] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:27] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:27] [Server thread/INFO]: <Player656> -1
+[23:43:27] [Server thread/INFO]: <Player656> -1
+[23:43:27] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:27] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:28] [Server thread/INFO]: <Player656> -1
+[23:43:28] [Server thread/INFO]: <Player656> -1
+[23:43:28] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:28] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:28] [Server thread/INFO]: <Player656> -1
+[23:43:28] [Server thread/INFO]: <Player656> -1
+[23:43:28] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:28] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:28] [Server thread/INFO]: <Player656> -1
+[23:43:28] [Server thread/INFO]: <Player656> -1
+[23:43:28] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:28] [Client thread/INFO]: [CHAT] <Player656> -1
+[23:43:28] [Server thread/INFO]: Saving and pausing game...
+[23:43:28] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:43:28] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:43:28] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:43:29] [Server thread/INFO]: Stopping server
+[23:43:29] [Server thread/INFO]: Saving players
+[23:43:29] [Server thread/INFO]: Saving worlds
+[23:43:29] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:43:29] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:43:29] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:43:31] [Client thread/INFO]: Stopping!
+[23:46:38] [main/INFO]: Setting user: Player20
+[23:46:39] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:46:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:46:43] [Sound Library Loader/INFO]: Sound engine started
+[23:46:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:46:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:46:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:46:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:46:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:46:45] [Sound Library Loader/INFO]: Sound engine started
+[23:46:48] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:46:48] [Server thread/INFO]: Generating keypair
+[23:46:48] [Server thread/INFO]: Preparing start region for level 0
+[23:46:49] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:46:49] [Server thread/INFO]: Player20[local:E:a305379e] logged in with entity id 330 at (-118.70604186861986, 64.39115566626829, 273.1540957304499)
+[23:46:49] [Server thread/INFO]: Player20 joined the game
+[23:46:52] [Server thread/INFO]: <Player20> 0
+[23:46:52] [Server thread/INFO]: <Player20> 0
+[23:46:52] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:52] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:52] [Server thread/INFO]: <Player20> 0
+[23:46:52] [Server thread/INFO]: <Player20> 0
+[23:46:52] [Server thread/INFO]: <Player20> 0
+[23:46:52] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:52] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:52] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:52] [Server thread/INFO]: <Player20> 0
+[23:46:52] [Server thread/INFO]: <Player20> 0
+[23:46:52] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:52] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:53] [Server thread/INFO]: <Player20> 0
+[23:46:53] [Server thread/INFO]: <Player20> 0
+[23:46:53] [Server thread/INFO]: <Player20> 0
+[23:46:53] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:53] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:53] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:53] [Server thread/INFO]: <Player20> 0
+[23:46:53] [Server thread/INFO]: <Player20> 0
+[23:46:53] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:53] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:54] [Server thread/INFO]: Player20 has just earned the achievement [Taking Inventory]
+[23:46:54] [Client thread/INFO]: [CHAT] Player20 has just earned the achievement [Taking Inventory]
+[23:46:57] [Server thread/INFO]: <Player20> 0
+[23:46:57] [Server thread/INFO]: <Player20> 0
+[23:46:57] [Server thread/INFO]: <Player20> 0
+[23:46:57] [Server thread/INFO]: <Player20> 0
+[23:46:57] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:57] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:57] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:57] [Client thread/INFO]: [CHAT] <Player20> 0
+[23:46:58] [Server thread/INFO]: <Player20> 1
+[23:46:58] [Server thread/INFO]: <Player20> 1
+[23:46:58] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:58] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:58] [Server thread/INFO]: <Player20> 1
+[23:46:58] [Server thread/INFO]: <Player20> 1
+[23:46:58] [Server thread/INFO]: <Player20> 1
+[23:46:58] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:58] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:58] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:58] [Server thread/INFO]: <Player20> 1
+[23:46:58] [Server thread/INFO]: <Player20> 1
+[23:46:58] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:58] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:59] [Server thread/INFO]: <Player20> 1
+[23:46:59] [Server thread/INFO]: <Player20> 1
+[23:46:59] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:59] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:59] [Server thread/INFO]: <Player20> 1
+[23:46:59] [Server thread/INFO]: <Player20> 1
+[23:46:59] [Server thread/INFO]: <Player20> 1
+[23:46:59] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:59] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:59] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:46:59] [Server thread/INFO]: <Player20> 1
+[23:46:59] [Client thread/INFO]: [CHAT] <Player20> 1
+[23:47:02] [Server thread/INFO]: Saving and pausing game...
+[23:47:02] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:47:02] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:47:02] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:47:03] [Server thread/INFO]: Stopping server
+[23:47:03] [Server thread/INFO]: Saving players
+[23:47:03] [Server thread/INFO]: Saving worlds
+[23:47:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:47:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:47:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:47:04] [Client thread/INFO]: Stopping!
+[23:48:50] [main/INFO]: Setting user: Player630
+[23:48:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:48:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:48:55] [Sound Library Loader/INFO]: Sound engine started
+[23:48:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:48:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:48:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:48:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:48:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:48:57] [Sound Library Loader/INFO]: Sound engine started
+[23:48:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:48:59] [Server thread/INFO]: Generating keypair
+[23:48:59] [Server thread/INFO]: Preparing start region for level 0
+[23:49:00] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:49:01] [Server thread/INFO]: Player630[local:E:e62bcf7a] logged in with entity id 330 at (-115.86665302396025, 65.0, 273.7106499744103)
+[23:49:01] [Server thread/INFO]: Player630 joined the game
+[23:49:14] [Server thread/INFO]: <Player630> 0
+[23:49:14] [Server thread/INFO]: <Player630> 0
+[23:49:14] [Server thread/INFO]: <Player630> 0
+[23:49:14] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:14] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:14] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:14] [Server thread/INFO]: <Player630> 0
+[23:49:14] [Server thread/INFO]: <Player630> 0
+[23:49:14] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:14] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:14] [Server thread/INFO]: <Player630> 0
+[23:49:14] [Server thread/INFO]: <Player630> 0
+[23:49:14] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:14] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:15] [Server thread/INFO]: <Player630> 0
+[23:49:15] [Server thread/INFO]: <Player630> 0
+[23:49:15] [Server thread/INFO]: <Player630> 0
+[23:49:15] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:15] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:15] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:15] [Server thread/INFO]: <Player630> 0
+[23:49:15] [Server thread/INFO]: <Player630> 0
+[23:49:15] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:15] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:16] [Server thread/INFO]: <Player630> 0
+[23:49:16] [Server thread/INFO]: <Player630> 0
+[23:49:16] [Server thread/INFO]: <Player630> 0
+[23:49:16] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:16] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:16] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:16] [Server thread/INFO]: <Player630> 0
+[23:49:16] [Server thread/INFO]: <Player630> 0
+[23:49:16] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:16] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:18] [Server thread/INFO]: <Player630> 1
+[23:49:18] [Server thread/INFO]: <Player630> 1
+[23:49:18] [Server thread/INFO]: <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:19] [Server thread/INFO]: <Player630> 1
+[23:49:19] [Server thread/INFO]: <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:19] [Server thread/INFO]: <Player630> 1
+[23:49:19] [Server thread/INFO]: <Player630> 1
+[23:49:19] [Server thread/INFO]: <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:19] [Server thread/INFO]: <Player630> 1
+[23:49:19] [Server thread/INFO]: <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:19] [Client thread/INFO]: [CHAT] <Player630> 1
+[23:49:21] [Server thread/INFO]: <Player630> 0
+[23:49:21] [Server thread/INFO]: <Player630> 0
+[23:49:21] [Server thread/INFO]: <Player630> 0
+[23:49:21] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:21] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:21] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:21] [Server thread/INFO]: <Player630> 0
+[23:49:21] [Server thread/INFO]: <Player630> 0
+[23:49:21] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:21] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:22] [Server thread/INFO]: <Player630> 0
+[23:49:22] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:22] [Server thread/INFO]: <Player630> 0
+[23:49:22] [Server thread/INFO]: <Player630> 0
+[23:49:22] [Server thread/INFO]: <Player630> 0
+[23:49:22] [Server thread/INFO]: <Player630> 0
+[23:49:22] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:22] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:22] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:22] [Client thread/INFO]: [CHAT] <Player630> 0
+[23:49:24] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:709) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:614) ~[MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:118) ~[IntegratedServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:485) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:752) [MinecraftServer$2.class:?]
+Caused by: java.lang.NullPointerException
+	at com.jim.blocksanditems.MobDropsHandler.onRightClick(MobDropsHandler.java:65) ~[MobDropsHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_7_MobDropsHandler_onRightClick_PlayerEvent.invoke(.dynamic) ~[?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) ~[ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:138) ~[EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.canInteractWith(ForgeHooks.java:438) ~[ForgeHooks.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdate(EntityPlayerMP.java:249) ~[EntityPlayerMP.class:?]
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2298) ~[World.class:?]
+	at net.minecraft.world.WorldServer.updateEntityWithOptionalForce(WorldServer.java:684) ~[WorldServer.class:?]
+	at net.minecraft.world.World.updateEntity(World.java:2258) ~[World.class:?]
+	at net.minecraft.world.World.updateEntities(World.java:2108) ~[World.class:?]
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:515) ~[WorldServer.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:703) ~[MinecraftServer.class:?]
+	... 4 more
+[23:49:24] [Server thread/ERROR]: This crash report has been saved to: D:\Users\Tim Williams\git\1.8_Blocks_And_Items\1.8_Blocks_And_Items\.\crash-reports\crash-2015-05-26_23.49.24-server.txt
+[23:49:24] [Server thread/INFO]: Stopping server
+[23:49:24] [Server thread/INFO]: Saving players
+[23:49:24] [Server thread/WARN]: Failed to save player data for Player630
+[23:49:24] [Server thread/INFO]: Saving worlds
+[23:49:24] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:49:24] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:49:24] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:49:30] [main/INFO]: Setting user: Player846
+[23:49:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:49:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:49:35] [Sound Library Loader/INFO]: Sound engine started
+[23:49:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:49:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:49:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[23:49:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:49:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:49:37] [Sound Library Loader/INFO]: Sound engine started
+[23:49:42] [Client thread/INFO]: Stopping!
