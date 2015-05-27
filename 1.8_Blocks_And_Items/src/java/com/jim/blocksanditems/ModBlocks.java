@@ -2,17 +2,18 @@ package com.jim.blocksanditems;
 
 import cpw.mods.fml.common.registry.ExistingSubstitutionException;
 import cpw.mods.fml.common.registry.GameRegistry;
-import cpw.mods.fml.common.registry.LanguageRegistry;
 import net.minecraft.block.Block;
-import net.minecraft.block.BlockGlass;
-import net.minecraft.block.BlockObsidian;
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemBlock;
-import net.minecraft.item.ItemMultiTexture;
-import net.minecraft.item.ItemStack;
 
 public class ModBlocks {
 	
+	public static Block door_spruce;
+	public static Block door_birch;
+	public static Block door_jungle;
+	public static Block door_acacia;
+	public static Block door_dark_oak;
     public static Block barrier;
     //public static Block coarse_dirt;
     public static Block iron_trapdoor;
@@ -43,9 +44,19 @@ public class ModBlocks {
         beck_block = new BlockBeck();
         Domenick = new BlockDom();
         
-        //Spawn in new stones
+        //Register our various doors.
+        door_spruce = new BlockDoor(Material.wood, ModItems.door_spruce, "door_spruce");
+        door_birch = new BlockDoor(Material.wood, ModItems.door_birch, "door_birch");
+        door_jungle = new BlockDoor(Material.wood, ModItems.door_jungle, "door_jungle");
+        door_acacia = new BlockDoor(Material.wood, ModItems.door_acacia, "door_acacia");
+        door_dark_oak = new BlockDoor(Material.wood, ModItems.door_dark_oak, "door_dark_oak");
+    	stone = new BlockStone();
+    	sponge = new BlockSponge();
+    }
+    
+    public static void postInit() {
+    	//Spawn in new stones
     	try {
-        	stone = new BlockStone();
 			GameRegistry.addSubstitutionAlias("minecraft:stone", GameRegistry.Type.BLOCK, stone);
 			GameRegistry.addSubstitutionAlias("minecraft:stone", GameRegistry.Type.ITEM, new ItemBlockStone(stone));
 		} catch (ExistingSubstitutionException e) {
@@ -55,13 +66,20 @@ public class ModBlocks {
     	
     	//Spawn in new sponge
     	try {
-        	sponge = new BlockSponge();
 			GameRegistry.addSubstitutionAlias("minecraft:sponge", GameRegistry.Type.BLOCK, sponge);
 			GameRegistry.addSubstitutionAlias("minecraft:sponge", GameRegistry.Type.ITEM, new ItemBlockSponge(sponge));
-			//System.out.println("TEst!! " + test.getSubItems(p_150895_1_, p_150895_2_, p_150895_3_););
 		} catch (ExistingSubstitutionException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+    	
+    	//Spawn in new doors
+    	/*try {
+			GameRegistry.addSubstitutionAlias("minecraft:wooden_door", GameRegistry.Type.BLOCK, door);
+			GameRegistry.addSubstitutionAlias("minecraft:wooden_door", GameRegistry.Type.ITEM, new ItemBlockDoor());
+		} catch (ExistingSubstitutionException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}*/
     }
 }

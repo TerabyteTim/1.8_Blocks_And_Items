@@ -51,11 +51,12 @@ public class MobDropsHandler {
 			evt.drops.add(drop);
 		}
 	}
-	
+	public static ItemStack test;
 	@SubscribeEvent
 	public void onRightClick(PlayerEvent evt) {
-		if (org.lwjgl.input.Keyboard.isKeyDown(0x10) && evt.entityPlayer != null) {			
-				MovingObjectPosition pos = evt.entityPlayer.rayTrace(200, 1.0f) ;
+		/*if (org.lwjgl.input.Keyboard.isKeyDown(0x10) && evt.entityPlayer != null) {	
+			Minecraft.getMinecraft().thePlayer.sendChatMessage(String.valueOf(test.getItem().getDamage(test)));		
+				/*MovingObjectPosition pos = evt.entityPlayer.rayTrace(200, 1.0f) ;
 
 				if (pos != null) {
 					World w = (World)Minecraft.getMinecraft().theWorld;
@@ -64,6 +65,6 @@ public class MobDropsHandler {
 					Minecraft.getMinecraft().thePlayer.sendChatMessage(new Vector3d(pos.blockX,pos.blockY, pos.blockZ).toString());
 					//Minecraft.getMinecraft().thePlayer.sendChatMessage(GameRegistry.findUniqueIdentifierFor(b).toString());
 				}
-		}
+		}*/
 	}
 }

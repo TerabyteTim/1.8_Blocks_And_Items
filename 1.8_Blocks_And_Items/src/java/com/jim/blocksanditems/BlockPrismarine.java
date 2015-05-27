@@ -3,7 +3,6 @@ package com.jim.blocksanditems;
 import java.util.List;
 import java.util.Random;
 
-import cpw.mods.fml.common.registry.ExistingSubstitutionException;
 import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -33,6 +32,7 @@ public class BlockPrismarine extends Block
         setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
         setCreativeTab(CreativeTabs.tabBlock);
         this.setHardness(1.5f);
+        this.setStepSound(soundTypeStone);
         this.setResistance(30);
     }
     

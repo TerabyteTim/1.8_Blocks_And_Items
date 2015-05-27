@@ -27,7 +27,7 @@ public class BlockStone extends net.minecraft.block.BlockStone
         setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
         this.setHardness(1.5f);
         this.setStepSound(soundTypeStone);
-        this.blockResistance = 30;
+        this.setResistance(30);
     }
     
     /**
