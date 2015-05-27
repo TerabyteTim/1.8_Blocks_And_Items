@@ -14,6 +14,7 @@ public class BlockSlime extends Block {
         this.setBlockName(name);
         this.setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
         this.setCreativeTab(CreativeTabs.tabBlock);
+        this.setLightOpacity(0);
         
         //We use this function instead because it allows us to set specific ids.
        	Block.blockRegistry.addObject(165, name, this);

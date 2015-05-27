@@ -1,12 +1,8 @@
 package com.jim.blocksanditems;
 
 import net.minecraft.block.Block;
-import net.minecraft.block.BlockCarpet;
-import net.minecraft.block.BlockDirt;
-import net.minecraft.block.BlockTrapDoor;
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.ItemDye;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 public class BlockCoarseDirt extends Block {

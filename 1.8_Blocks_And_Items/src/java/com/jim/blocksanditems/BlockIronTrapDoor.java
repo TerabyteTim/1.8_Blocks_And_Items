@@ -32,6 +32,8 @@ public class BlockIronTrapDoor extends Block {
         this.setBlockBounds(0.5F - f, 0.0F, 0.5F - f, 0.5F + f, f1, 0.5F + f);
         this.setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
         this.setCreativeTab(CreativeTabs.tabRedstone);
+        this.setHardness(5);
+        this.setResistance(25);
     }
 
     /**

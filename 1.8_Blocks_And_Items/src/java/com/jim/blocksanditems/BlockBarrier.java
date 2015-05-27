@@ -2,7 +2,6 @@ package com.jim.blocksanditems;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
-import net.minecraft.creativetab.CreativeTabs;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 public class BlockBarrier extends Block {
@@ -13,7 +12,9 @@ public class BlockBarrier extends Block {
         GameRegistry.registerBlock(this, name);
         this.setBlockName(name);
         this.setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
-        this.setCreativeTab(CreativeTabs.tabBlock);
         this.setBlockUnbreakable();
+        this.setHardness(-1);
+        this.setResistance(18000003);
+        this.setLightOpacity(0);
     }
 }

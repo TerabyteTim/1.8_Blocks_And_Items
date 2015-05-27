@@ -1,5 +1,6 @@
 package com.jim.blocksanditems;
 
+import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import cpw.mods.fml.common.registry.GameRegistry;
@@ -94,5 +95,10 @@ public class ModRecipes {
 		GameRegistry.addRecipe(new ItemStack(ModBlocks.prismarine, 1, 2), "XXX", "XYX", "XXX", 'X', ModItems.prismarine_shard, 'Y', Item.getItemById(351));
 		//Cooked mutton
 		GameRegistry.addSmelting(new ItemStack(ModItems.mutton_raw), new ItemStack(ModItems.mutton_cooked), 0.35f);
+		//Iron trapdoor
+		GameRegistry.addRecipe(new ItemStack(ModBlocks.iron_trapdoor), "XX ", "XX ", "   ", 'X', Blocks.iron_bars);
+		GameRegistry.addRecipe(new ItemStack(ModBlocks.iron_trapdoor), " XX", " XX", "   ", 'X', Blocks.iron_bars);
+		GameRegistry.addRecipe(new ItemStack(ModBlocks.iron_trapdoor), "   ", "XX ", "XX ", 'X', Blocks.iron_bars);
+		GameRegistry.addRecipe(new ItemStack(ModBlocks.iron_trapdoor), "   ", " XX", " XX", 'X', Blocks.iron_bars);
 	}
 }

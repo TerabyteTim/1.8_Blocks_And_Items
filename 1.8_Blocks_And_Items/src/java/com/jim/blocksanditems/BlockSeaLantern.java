@@ -3,7 +3,6 @@ package com.jim.blocksanditems;
 import java.util.Random;
 
 import net.minecraft.block.Block;
-import net.minecraft.block.BlockTorch;
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
@@ -12,8 +11,6 @@ import cpw.mods.fml.common.registry.GameRegistry;
 
 public class BlockSeaLantern extends Block {
 	
-	private static final int least_quantity = 2;
-	private static final int most_quantity = 3;
     private static final String name = "sea_lantern";
 
     public BlockSeaLantern() {

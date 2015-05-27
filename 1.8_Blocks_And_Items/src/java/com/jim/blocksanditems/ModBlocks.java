@@ -4,11 +4,14 @@ import cpw.mods.fml.common.registry.ExistingSubstitutionException;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
-import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item;
 
 public class ModBlocks {
 	
+	public static Block fence_spruce;
+	public static Block fence_birch;
+	public static Block fence_jungle;
+	public static Block fence_dark_oak;
+	public static Block fence_acacia;
 	public static Block door_spruce;
 	public static Block door_birch;
 	public static Block door_jungle;
@@ -32,15 +35,15 @@ public class ModBlocks {
         iron_trapdoor = new BlockIronTrapDoor();
         prismarine = new BlockPrismarine();
         sea_lantern = new BlockSeaLantern();
-        
+
         //coarse_dirt = new BlockCoarseDirt();
         red_sandstone_normal = new BlockRedSandstone();
-        /*stone_andesite = new BlockNormalAndesite();
-        stone_diorite = new BlockDiorite();
-        stone_granite = new BlockGranite();
-        stone_andesite_smooth = new BlockPolishedAndesite();
-        stone_diorite_smooth = new BlockPolishedDiorite();
-        stone_granite_smooth = new BlockPolishedGranite();*/
+
+        fence_spruce = new BlockFence("spruce", Material.wood);
+        fence_birch = new BlockFence("birch", Material.wood);
+        fence_jungle = new BlockFence("jungle", Material.wood);
+        fence_dark_oak = new BlockFence("big_oak", Material.wood);
+        fence_acacia = new BlockFence("acacia", Material.wood);
         beck_block = new BlockBeck();
         Domenick = new BlockDom();
         

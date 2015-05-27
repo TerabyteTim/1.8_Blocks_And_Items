@@ -14,5 +14,8 @@ public class BlockRedSandstone extends Block {
         this.setBlockName(name);
         this.setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
         this.setCreativeTab(CreativeTabs.tabBlock);
+        this.setStepSound(soundTypeStone);
+        this.setResistance(4);
+        this.setHardness(0.8f);
     }
 }

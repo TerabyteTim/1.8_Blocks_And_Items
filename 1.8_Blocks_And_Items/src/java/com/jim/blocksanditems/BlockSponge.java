@@ -7,16 +7,12 @@ import java.util.List;
 import java.util.Random;
 
 import javax.vecmath.Vector3d;
-import javax.vecmath.Vector3f;
 
 import com.google.common.collect.Lists;
 
-import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
-import net.minecraft.block.material.Material;
-import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
@@ -95,8 +91,6 @@ public class BlockSponge extends net.minecraft.block.BlockSponge
      * 		True if we absorbed water and are now wet like Ariel.
      */
     private boolean absorb (World w, Vector3d pos) {
-    	boolean gotWet = false;
-    	
     	LinkedList linkedlist = Lists.newLinkedList();
         ArrayList arraylist = Lists.newArrayList();
         linkedlist.add(new Tuple(pos, Integer.valueOf(0)));
