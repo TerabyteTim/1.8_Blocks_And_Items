@@ -18,7 +18,6 @@ tile.fence_gate_jungle.name=Jungle Fence Gate
 tile.fence_gate_acacia.name=Acacia Fence Gate
 tile.fence_gate_big_oak.name=Dark Oak Fence Gate
 tile.barrier.name=Barrier
-tile.stone.smooth.name=Stone
 tile.stone.andesite.name=Andesite
 tile.stone.diorite.name=Diorite
 tile.stone.granite.name=Granite

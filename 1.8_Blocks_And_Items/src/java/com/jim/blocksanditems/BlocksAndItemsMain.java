@@ -22,7 +22,7 @@ public class BlocksAndItemsMain
     {    	
     	ModItems.init();	
     	ModBlocks.init();
-    	ModBlocks.postInit();
+    	ModRecipes.init();
     }
  
     @Mod.EventHandler
@@ -32,7 +32,5 @@ public class BlocksAndItemsMain
     }
  
     @Mod.EventHandler
-    public void postInit(FMLPostInitializationEvent event) {
-    	ModRecipes.init();
-    }
+    public void postInit(FMLPostInitializationEvent event) {}
 }

@@ -10,6 +10,7 @@ import javax.vecmath.Vector3d;
 
 import com.google.common.collect.Lists;
 
+import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
@@ -36,6 +37,7 @@ public class BlockSponge extends net.minecraft.block.BlockSponge
     public BlockSponge()
     {
         super();
+        GameRegistry.registerBlock(this, ItemBlockSponge.class, name);
 
         this.setBlockName(name);
         this.setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);

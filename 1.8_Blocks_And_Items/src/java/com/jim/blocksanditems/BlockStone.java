@@ -2,6 +2,7 @@ package com.jim.blocksanditems;
 
 import java.util.List;
 
+import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.client.renderer.texture.IIconRegister;
@@ -13,7 +14,7 @@ import net.minecraft.util.IIcon;
 public class BlockStone extends net.minecraft.block.BlockStone
 {
 	//Names for all types this block has
-	public static final String[] typeNames = new String[] {"smooth", "granite", "granite_smooth", "diorite", "diorite_smooth", "andesite", "andesite_smooth"};
+	public static final String[] typeNames = new String[] {"granite", "granite_smooth", "diorite", "diorite_smooth", "andesite", "andesite_smooth"};
 	//Icons for all types this block has
     @SideOnly(Side.CLIENT)
     private IIcon[] typeIcons;
@@ -22,6 +23,7 @@ public class BlockStone extends net.minecraft.block.BlockStone
     public BlockStone()
     {
         super();
+        GameRegistry.registerBlock(this, ItemBlockStone.class, name);
         
         setBlockName(name);
         setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
