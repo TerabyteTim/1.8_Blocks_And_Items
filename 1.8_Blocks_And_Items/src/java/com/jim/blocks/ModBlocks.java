@@ -2,8 +2,6 @@ package com.jim.blocks;
 
 import com.jim.items.ModItems;
 
-import cpw.mods.fml.common.registry.ExistingSubstitutionException;
-import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 
@@ -32,6 +30,7 @@ public class ModBlocks {
     public static Block prismarine;
     public static Block red_sandstone;
     public static Block red_sandstone_slab;
+    public static Block red_sandstone_slab_double;
     public static Block red_sandstone_stairs;
     public static Block sea_lantern;
     public static Block slime;
@@ -45,15 +44,14 @@ public class ModBlocks {
         iron_trapdoor = new BlockIronTrapDoor();
         prismarine = new BlockPrismarine();
         sea_lantern = new BlockSeaLantern();
+    	banner = new BlockBanner();
     	stone = new BlockStone();
     	sponge = new BlockSponge();
-    	banner = new BlockBanner();
         //coarse_dirt = new BlockCoarseDirt();
         red_sandstone = new BlockRedSandstone();
         red_sandstone_stairs = new BlockRedSandstoneStairs();
+        red_sandstone_slab_double = new BlockRedSandstoneDoubleSlab();
         red_sandstone_slab = new BlockRedSandstoneSlab();
-
-        beck_block = new BlockBeck();
         
         fence_gate_spruce = new BlockFenceGate("spruce",1);
         fence_gate_birch = new BlockFenceGate("birch", 2);
@@ -73,7 +71,8 @@ public class ModBlocks {
         door_jungle = new BlockDoor(Material.wood, ModItems.door_jungle, "door_jungle");
         door_acacia = new BlockDoor(Material.wood, ModItems.door_acacia, "door_acacia");
         door_dark_oak = new BlockDoor(Material.wood, ModItems.door_dark_oak, "door_dark_oak");
-        
+
+        beck_block = new BlockBeck();
         Domenick = new BlockDom();
     }
     

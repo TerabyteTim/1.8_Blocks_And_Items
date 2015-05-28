@@ -12,6 +12,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.Entity;
+import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.AxisAlignedBB;
@@ -28,7 +29,7 @@ public class BlockRedSandstoneSlab extends Block implements ISubBlocksBlock, ICo
     
 	public BlockRedSandstoneSlab() {
 		super(Material.rock);
-		GameRegistry.registerBlock(this, name);
+		GameRegistry.registerBlock(this, ItemRedSandstoneSlab.class, name);
 		
 		setResistance(30);
 		setHardness(2.0F);
@@ -69,7 +70,16 @@ public class BlockRedSandstoneSlab extends Block implements ISubBlocksBlock, ICo
 			return 1;
 		return 0;
 	}
-
+	
+	@Override
+    public void onBlockAdded(World world, int x, int y, int z) {
+		//If we're right above another slab, create a double slab.
+		/*if (world.getBlock(x, y - 1, z) instanceof BlockRedSandstoneSlab) {
+			world.setBlock(x, y - 1, z, ModBlocks.red_sandstone_slab_double);
+			world.setBlockToAir(x, y, z);
+		}*/
+    }
+	
 	@Override
 	public ArrayList<ItemStack> getDrops(World world, int x, int y, int z, int meta, int fortune) {
 		ArrayList<ItemStack> ret = new ArrayList<ItemStack>();
