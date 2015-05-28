@@ -1,29 +1,28 @@
-[00:22:41] [main/INFO]: Setting user: Player531
-[00:22:42] [Client thread/INFO]: LWJGL Version: 2.9.1
-[00:22:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
-[00:22:46] [Sound Library Loader/INFO]: Sound engine started
-[00:22:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[00:22:46] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[00:22:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
-[00:22:46] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[00:22:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[00:22:47] [Sound Library Loader/INFO]: Sound engine started
-[00:22:49] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[00:22:49] [Server thread/INFO]: Generating keypair
-[00:22:52] [Server thread/INFO]: Preparing start region for level 0
-[00:22:52] [Server thread/INFO]: Changing view distance to 12, from 10
-[00:22:53] [Server thread/INFO]: Player531[local:E:f8e1dd23] logged in with entity id 317 at (90.44429758132284, 64.0, 247.05929337766545)
-[00:22:53] [Server thread/INFO]: Player531 joined the game
-[00:22:55] [Server thread/INFO]: Player531 has just earned the achievement [Taking Inventory]
-[00:22:55] [Client thread/INFO]: [CHAT] Player531 has just earned the achievement [Taking Inventory]
-[00:23:10] [Server thread/INFO]: Saving and pausing game...
-[00:23:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[00:23:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[00:23:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[00:23:11] [Server thread/INFO]: Stopping server
-[00:23:11] [Server thread/INFO]: Saving players
-[00:23:11] [Server thread/INFO]: Saving worlds
-[00:23:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[00:23:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[00:23:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[00:23:13] [Client thread/INFO]: Stopping!
+[10:38:03] [main/INFO]: Setting user: Player917
+[10:38:04] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:38:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[10:38:08] [Sound Library Loader/INFO]: Sound engine started
+[10:38:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[10:38:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[10:38:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[10:38:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[10:38:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[10:38:10] [Sound Library Loader/INFO]: Sound engine started
+[10:38:13] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[10:38:13] [Server thread/INFO]: Generating keypair
+[10:38:14] [Server thread/INFO]: Preparing start region for level 0
+[10:38:15] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:38:15] [Server thread/INFO]: Player917[local:E:e6b4fa66] logged in with entity id 376 at (126.8013985547697, 78.2242878493739, 263.4030630325775)
+[10:38:15] [Server thread/INFO]: Player917 joined the game
+[10:38:19] [Server thread/INFO]: Player917 has just earned the achievement [Taking Inventory]
+[10:38:19] [Client thread/INFO]: [CHAT] Player917 has just earned the achievement [Taking Inventory]
+[10:39:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2499ms behind, skipping 49 tick(s)
+[10:40:09] [Client thread/INFO]: Stopping!
+[10:40:09] [Server thread/INFO]: Stopping server
+[10:40:09] [Server thread/INFO]: Saving players
+[10:40:09] [Server thread/INFO]: Saving worlds
+[10:40:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:40:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:40:09] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:40:09] [Client Shutdown Thread/INFO]: Stopping server
+[10:40:09] [Client Shutdown Thread/INFO]: Saving players

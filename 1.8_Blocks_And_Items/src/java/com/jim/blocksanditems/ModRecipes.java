@@ -1,5 +1,8 @@
 package com.jim.blocksanditems;
 
+import com.jim.blocks.ModBlocks;
+import com.jim.items.ModItems;
+
 import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
