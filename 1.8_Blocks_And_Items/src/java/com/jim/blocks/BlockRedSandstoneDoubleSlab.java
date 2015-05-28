@@ -16,9 +16,9 @@ import cpw.mods.fml.relauncher.SideOnly;
 public class BlockRedSandstoneDoubleSlab extends Block {
 	
     private static final String name = "red_sandstone_slab_double";
-    private static IIcon icon;
-    private static IIcon botIcon;
-    private static IIcon topIcon;
+    private IIcon icon;
+    private IIcon botIcon;
+    private IIcon topIcon;
 
     public BlockRedSandstoneDoubleSlab() {
         super(Material.rock);

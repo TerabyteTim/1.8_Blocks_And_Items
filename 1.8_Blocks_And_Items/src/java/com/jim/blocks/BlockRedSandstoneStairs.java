@@ -1,12 +1,10 @@
 package com.jim.blocks;
 
-import com.jim.blocksanditems.IConfigurable;
-
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.block.BlockStairs;
 import net.minecraft.creativetab.CreativeTabs;
 
-public class BlockRedSandstoneStairs extends BlockStairs implements IConfigurable {
+public class BlockRedSandstoneStairs extends BlockStairs {
 	
     private static final String name = "red_sandstone_stairs";
 
@@ -19,10 +17,5 @@ public class BlockRedSandstoneStairs extends BlockStairs implements IConfigurabl
 		setLightOpacity(0);
 		setBlockName(name);
 		setCreativeTab(CreativeTabs.tabBlock);
-	}
-
-	@Override
-	public boolean isEnabled() {
-		return true;
 	}
 }

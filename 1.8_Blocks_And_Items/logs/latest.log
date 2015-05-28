@@ -1,45 +1,29 @@
-[11:24:45] [main/INFO]: Setting user: Player662
-[11:24:46] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:24:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
-[11:24:50] [Sound Library Loader/INFO]: Sound engine started
-[11:24:51] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[11:24:51] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[11:24:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
-[11:24:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[11:24:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[11:24:53] [Sound Library Loader/INFO]: Sound engine started
-[11:24:54] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[11:24:54] [Server thread/INFO]: Generating keypair
-[11:24:55] [Server thread/INFO]: Preparing start region for level 0
-[11:24:56] [Server thread/INFO]: Changing view distance to 12, from 10
-[11:24:56] [Server thread/INFO]: Player662[local:E:9909eb22] logged in with entity id 395 at (216.8981128129188, 82.0, 24.16997577684697)
-[11:24:56] [Server thread/INFO]: Player662 joined the game
-[11:24:57] [Server thread/INFO]: Player662 has just earned the achievement [Taking Inventory]
-[11:24:57] [Client thread/INFO]: [CHAT] Player662 has just earned the achievement [Taking Inventory]
-[11:25:06] [Server thread/INFO]: <Player662> 184
-[11:25:06] [Server thread/INFO]: <Player662> 184
-[11:25:06] [Client thread/INFO]: [CHAT] <Player662> 184
-[11:25:06] [Client thread/INFO]: [CHAT] <Player662> 184
-[11:25:06] [Server thread/INFO]: <Player662> 184
-[11:25:06] [Server thread/INFO]: <Player662> 184
-[11:25:06] [Client thread/INFO]: [CHAT] <Player662> 184
-[11:25:06] [Client thread/INFO]: [CHAT] <Player662> 184
-[11:25:06] [Server thread/INFO]: <Player662> 184
-[11:25:06] [Server thread/INFO]: <Player662> 184
-[11:25:06] [Client thread/INFO]: [CHAT] <Player662> 184
-[11:25:06] [Client thread/INFO]: [CHAT] <Player662> 184
-[11:25:06] [Server thread/INFO]: <Player662> 184
-[11:25:06] [Server thread/INFO]: <Player662> 184
-[11:25:07] [Client thread/INFO]: [CHAT] <Player662> 184
-[11:25:07] [Client thread/INFO]: [CHAT] <Player662> 184
-[11:25:09] [Server thread/INFO]: Saving and pausing game...
-[11:25:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:25:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:25:09] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:25:10] [Server thread/INFO]: Stopping server
-[11:25:10] [Server thread/INFO]: Saving players
-[11:25:10] [Server thread/INFO]: Saving worlds
-[11:25:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:25:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:25:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:25:10] [Client thread/INFO]: Stopping!
+[15:24:24] [main/INFO]: Setting user: Player628
+[15:24:25] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:24:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[15:24:28] [Sound Library Loader/INFO]: Sound engine started
+[15:24:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:24:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:24:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:1.8 Blocks And Items, FMLFileResourcePack:Example Mod
+[15:24:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:24:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:24:30] [Sound Library Loader/INFO]: Sound engine started
+[15:24:32] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:24:32] [Server thread/INFO]: Generating keypair
+[15:24:32] [Server thread/INFO]: Preparing start region for level 0
+[15:24:33] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:24:34] [Server thread/INFO]: Player628[local:E:5a756021] logged in with entity id 401 at (220.54978471792467, 82.0, 21.826320326901147)
+[15:24:34] [Server thread/INFO]: Player628 joined the game
+[15:24:38] [Server thread/INFO]: Player628 has just earned the achievement [Taking Inventory]
+[15:24:38] [Client thread/INFO]: [CHAT] Player628 has just earned the achievement [Taking Inventory]
+[15:24:47] [Server thread/INFO]: Saving and pausing game...
+[15:24:47] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:24:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:24:47] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:24:47] [Server thread/INFO]: Stopping server
+[15:24:47] [Server thread/INFO]: Saving players
+[15:24:47] [Server thread/INFO]: Saving worlds
+[15:24:47] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:24:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:24:47] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:24:48] [Client thread/INFO]: Stopping!

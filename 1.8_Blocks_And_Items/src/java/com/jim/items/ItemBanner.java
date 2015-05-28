@@ -2,7 +2,7 @@ package com.jim.items;
 
 import java.util.List;
 
-import com.jim.blocksanditems.EnumColour;
+import com.jim.blocksanditems.EnumColor;
 import com.jim.blocksanditems.TileEntityBanner;
 import com.jim.blocksanditems.TileEntityBanner.EnumBannerPattern;
 
@@ -85,7 +85,7 @@ public class ItemBanner extends ItemBlock {
 
 			for (int i = 0; i < nbttaglist.tagCount() && i < 6; i++) {
 				NBTTagCompound nbt = nbttaglist.getCompoundTagAt(i);
-				EnumColour colour = EnumColour.fromDamage(nbt.getInteger("Color"));
+				EnumColor colour = EnumColor.fromDamage(nbt.getInteger("Color"));
 				EnumBannerPattern pattern = EnumBannerPattern.getPatternByID(nbt.getString("Pattern"));
 
 				if (pattern != null)
@@ -100,7 +100,7 @@ public class ItemBanner extends ItemBlock {
 		if (renderPass == 0)
 			return 0xFFFFFF;
 		else {
-			EnumColour EnumColour = getBaseColor(stack);
+			EnumColor EnumColour = getBaseColor(stack);
 			return EnumColour.getRGB();
 		}
 	}
@@ -109,18 +109,18 @@ public class ItemBanner extends ItemBlock {
 	@SideOnly(Side.CLIENT)
 	@SuppressWarnings({ "unchecked", "rawtypes" })
 	public void getSubItems(Item item, CreativeTabs tab, List subItems) {
-		for (EnumColour colour : EnumColour.values())
+		for (EnumColor colour : EnumColor.values())
 			subItems.add(new ItemStack(item, 1, colour.getDamage()));
 	}
 
-	private EnumColour getBaseColor(ItemStack stack) {
+	private EnumColor getBaseColor(ItemStack stack) {
 		NBTTagCompound nbttagcompound = getSubTag(stack, "BlockEntityTag", false);
-		EnumColour colour = null;
+		EnumColor colour = null;
 
 		if (nbttagcompound != null && nbttagcompound.hasKey("Base"))
-			colour = EnumColour.fromDamage(nbttagcompound.getInteger("Base"));
+			colour = EnumColor.fromDamage(nbttagcompound.getInteger("Base"));
 		else
-			colour = EnumColour.fromDamage(stack.getItemDamage());
+			colour = EnumColor.fromDamage(stack.getItemDamage());
 
 		return colour;
 	}

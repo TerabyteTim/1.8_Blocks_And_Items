@@ -9,12 +9,12 @@ import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
 @SideOnly(Side.CLIENT)
-public class ArmourStandRenderer extends RenderBiped {
+public class ArmorStandRenderer extends RenderBiped {
 
     private static final ResourceLocation TEXTURE_ARMOUR_STAND = new ResourceLocation(
             "textures/entity/armorstand/wood.png");
 
-    public ArmourStandRenderer() {
+    public ArmorStandRenderer() {
         super(new ModelArmorStand(), 0.0F);
         this.modelBipedMain = (ModelBiped) this.mainModel;
         this.field_82423_g = new ModelArmorStandArmor(1.0F);

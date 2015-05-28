@@ -5,9 +5,8 @@ import java.awt.Color;
 import net.minecraft.block.BlockColored;
 import net.minecraft.block.material.MapColor;
 import net.minecraft.entity.passive.EntitySheep;
-import net.minecraft.util.StatCollector;
 
-public enum EnumColour {
+public enum EnumColor {
 
 	BLACK("Black", MapColor.blackColor),
 	RED("Red", MapColor.redColor),
@@ -30,7 +29,7 @@ public enum EnumColour {
 	final String name;
 	final MapColor mapColour;
 
-	EnumColour(String name, MapColor mapColour) {
+	EnumColor(String name, MapColor mapColour) {
 		dye = "dye" + name;
 		this.name = name;
 		this.mapColour = mapColour;
@@ -75,15 +74,7 @@ public enum EnumColour {
 		return getColour().brighter().getRGB();
 	}
 
-	/*public String getTranslatedName() {
-		return StatCollector.translateToLocal(getUnlocalisedName());
-	}*/
-
-	/*public String getUnlocalisedName() {
-		return "colour." + Reference.MOD_ID + "." + dye;
-	}*/
-
-	public static EnumColour fromDamage(int meta) {
+	public static EnumColor fromDamage(int meta) {
 		meta = BlockColored.func_150031_c(meta);
 		return values()[Math.min(Math.max(0, meta), values().length - 1)];
 	}

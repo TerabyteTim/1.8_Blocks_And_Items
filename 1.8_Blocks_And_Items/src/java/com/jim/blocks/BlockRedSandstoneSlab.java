@@ -3,8 +3,6 @@ package com.jim.blocks;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.jim.blocks.ModBlocks.ISubBlocksBlock;
-import com.jim.blocksanditems.IConfigurable;
 import com.jim.items.ItemRedSandstoneSlab;
 
 import net.minecraft.block.Block;
@@ -12,8 +10,6 @@ import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.Entity;
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemBlock;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.AxisAlignedBB;
 import net.minecraft.util.IIcon;
@@ -23,7 +19,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
-public class BlockRedSandstoneSlab extends Block implements ISubBlocksBlock, IConfigurable {
+public class BlockRedSandstoneSlab extends Block {
 
     private static final String name = "red_sandstone_slab";
     
@@ -72,15 +68,6 @@ public class BlockRedSandstoneSlab extends Block implements ISubBlocksBlock, ICo
 	}
 	
 	@Override
-    public void onBlockAdded(World world, int x, int y, int z) {
-		//If we're right above another slab, create a double slab.
-		/*if (world.getBlock(x, y - 1, z) instanceof BlockRedSandstoneSlab) {
-			world.setBlock(x, y - 1, z, ModBlocks.red_sandstone_slab_double);
-			world.setBlockToAir(x, y, z);
-		}*/
-    }
-	
-	@Override
 	public ArrayList<ItemStack> getDrops(World world, int x, int y, int z, int meta, int fortune) {
 		ArrayList<ItemStack> ret = new ArrayList<ItemStack>();
 
@@ -117,16 +104,6 @@ public class BlockRedSandstoneSlab extends Block implements ISubBlocksBlock, ICo
 	@Override
 	@SideOnly(Side.CLIENT)
 	public boolean shouldSideBeRendered(IBlockAccess world, int x, int y, int z, int side) {
-		return true;
-	}
-
-	@Override
-	public Class<? extends ItemBlock> getItemBlockClass() {
-		return ItemRedSandstoneSlab.class;
-	}
-
-	@Override
-	public boolean isEnabled() {
 		return true;
 	}
 }

@@ -52,7 +52,7 @@ public class TileEntityBannerRenderer extends TileEntitySpecialRenderer {
 				}
 
 				List<EnumBannerPattern> list1 = banner.getPatternList();
-				List<EnumColour> list = banner.getColorList();
+				List<EnumColor> list = banner.getColorList();
 				ArrayList<String> arraylist = Lists.newArrayList();
 				Iterator<EnumBannerPattern> patters = list1.iterator();
 

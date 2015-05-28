@@ -25,7 +25,7 @@ public class TileEntityBanner extends TileEntity {
 	private NBTTagList patterns;
 	private boolean field_175119_g;
 	private List<EnumBannerPattern> patternList;
-	private List<EnumColour> colorList;
+	private List<EnumColor> colorList;
 	private String field_175121_j;
 	public boolean isStanding;
 
@@ -107,7 +107,7 @@ public class TileEntityBanner extends TileEntity {
 	}
 
 	@SideOnly(Side.CLIENT)
-	public List<EnumColour> getColorList() {
+	public List<EnumColor> getColorList() {
 		initializeBannerData();
 		return colorList;
 	}
@@ -146,7 +146,7 @@ public class TileEntityBanner extends TileEntity {
 				patternList = Lists.newArrayList();
 				colorList = Lists.newArrayList();
 				patternList.add(TileEntityBanner.EnumBannerPattern.BASE);
-				colorList.add(EnumColour.fromDamage(baseColor));
+				colorList.add(EnumColor.fromDamage(baseColor));
 				field_175121_j = "b" + baseColor;
 
 				if (patterns != null)
@@ -157,7 +157,7 @@ public class TileEntityBanner extends TileEntity {
 						if (pattern != null) {
 							patternList.add(pattern);
 							int j = nbttagcompound.getInteger("Color");
-							colorList.add(EnumColour.fromDamage(j));
+							colorList.add(EnumColor.fromDamage(j));
 							field_175121_j = field_175121_j + pattern.getPatternID() + j;
 						}
 					}
