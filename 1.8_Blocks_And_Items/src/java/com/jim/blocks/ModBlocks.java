@@ -75,9 +75,4 @@ public class ModBlocks {
         beck_block = new BlockBeck();
         Domenick = new BlockDom();
     }
-    
-    /*public static interface ISubBlocksBlock {
-
-        Class<? extends net.minecraft.item.ItemBlock> getItemBlockClass();
-    }*/
 }

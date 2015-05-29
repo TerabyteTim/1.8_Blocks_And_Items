@@ -13,15 +13,13 @@ public class BlockSlime extends Block {
     public BlockSlime() {
         super(Material.rock);
         GameRegistry.registerBlock(this, name);
+        
         this.setBlockName(name);
         this.setBlockTextureName(BlocksAndItemsMain.MODID + ":" + name);
         this.setCreativeTab(CreativeTabs.tabBlock);
         this.setLightOpacity(0);
         
         this.opaque = false;
-        
-        //We use this function instead because it allows us to set specific ids.
-       	Block.blockRegistry.addObject(165, name, this);
     }
     
     @SideOnly(Side.CLIENT)

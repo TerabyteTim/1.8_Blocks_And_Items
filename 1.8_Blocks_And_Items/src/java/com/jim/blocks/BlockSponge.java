@@ -6,8 +6,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
-import javax.vecmath.Vector3d;
-
 import com.google.common.collect.Lists;
 import com.jim.items.ItemBlockSponge;
 
@@ -76,7 +74,7 @@ public class BlockSponge extends net.minecraft.block.BlockSponge
      */
     private void tryAbsorb(World world, int x, int y, int z) {   
     	//If we weren't wet before, and we successfully got some, soak us.
-    	if (!this.fullWithWater && this.absorb(world, new Vector3d(x, y, z))) {
+    	if (!this.fullWithWater && this.absorb(world, new Vector3(x, y, z))) {
         	world.setBlockMetadataWithNotify(x, y, z, 1, 1);
         	world.markBlockForUpdate(x, y, z);
         	world.playAuxSFX(2001, x, y, z, Block.getIdFromBlock(Blocks.water));
@@ -93,19 +91,19 @@ public class BlockSponge extends net.minecraft.block.BlockSponge
      * @return
      * 		True if we absorbed water and are now wet like Ariel.
      */
-    private boolean absorb (World w, Vector3d pos) {
+    private boolean absorb (World w, Vector3 pos) {
     	LinkedList linkedlist = Lists.newLinkedList();
         ArrayList arraylist = Lists.newArrayList();
         linkedlist.add(new Tuple(pos, Integer.valueOf(0)));
         int i = 0;
-        Vector3d blockpos1;
+        Vector3 blockpos1;
         
         //Iterate through blocks in each direction. We only absorb in a connected line, no skipping blocks.
         //We absorb 7 blocks in each direction, taking in no more than 65 blocks of water.
         while (!linkedlist.isEmpty())
         {
             Tuple tuple = (Tuple)linkedlist.poll();
-            blockpos1 = (Vector3d)tuple.getFirst();
+            blockpos1 = (Vector3)tuple.getFirst();
             int j = ((Integer)tuple.getSecond()).intValue();
             EnumFacing[] aenumfacing = EnumFacing.values();
             int k = aenumfacing.length;
@@ -113,7 +111,7 @@ public class BlockSponge extends net.minecraft.block.BlockSponge
             for (int l = 0; l < k; ++l)
             {
                 EnumFacing enumfacing = aenumfacing[l];
-                Vector3d blockpos2 = offset(blockpos1, enumfacing);
+                Vector3 blockpos2 = offset(blockpos1, enumfacing);
                 Block b = w.getBlock((int)blockpos2.x, (int)blockpos2.y, (int)blockpos2.z);
 
                 if (b == Block.getBlockById(8) || b == Block.getBlockById(9))
@@ -139,34 +137,34 @@ public class BlockSponge extends net.minecraft.block.BlockSponge
 
         while (iterator.hasNext())
         {
-            blockpos1 = (Vector3d)iterator.next();
+            blockpos1 = (Vector3)iterator.next();
             w.notifyBlockChange((int)blockpos1.x, (int)blockpos1.y, (int)blockpos1.z, Blocks.air);
         }
 
         return i > 0;
     }
     
-    private Vector3d offset (Vector3d in, EnumFacing dir) {
-    	Vector3d newVec = new Vector3d(in);
+    private Vector3 offset (Vector3 in, EnumFacing dir) {
+    	Vector3 newVec = new Vector3(in);
     	
     	switch(dir) {
     		case UP:
-    			newVec.add(new Vector3d(0, 1, 0));
+    			newVec.add(new Vector3(0, 1, 0));
     			break;
     		case DOWN:
-    			newVec.add(new Vector3d(0, -1, 0));
+    			newVec.add(new Vector3(0, -1, 0));
     			break;
     		case NORTH:
-    			newVec.add(new Vector3d(0, 0, -1));
+    			newVec.add(new Vector3(0, 0, -1));
     			break;
     		case SOUTH:
-    			newVec.add(new Vector3d(0, 0, 1));
+    			newVec.add(new Vector3(0, 0, 1));
     			break;
     		case EAST:
-    			newVec.add(new Vector3d(1, 0, 0));
+    			newVec.add(new Vector3(1, 0, 0));
     			break;
     		case WEST:
-    			newVec.add(new Vector3d(-1, 0, 0));
+    			newVec.add(new Vector3(-1, 0, 0));
     			break;
     	}
     	

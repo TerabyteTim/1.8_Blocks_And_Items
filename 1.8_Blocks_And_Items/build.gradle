@@ -29,5 +29,5 @@ resources { srcDirs = ["$projectDir/src/resources"] }
 }
 
 archivesBaseName = "1.8 Blocks And Items"
-version = "0.1.2A"
+version = "1.0"
 minecraft.version = "1.7.10-10.13.3.1403-1.7.10"
